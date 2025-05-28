@@ -75,8 +75,4 @@ pip install -r requirements.txt
 ```
 Open Jupyter Notebook and run the notebooks in order:
 
-01_data_analysis.ipynb
-
-02_preprocessing.ipynb
-
-03_modeling.ipynb
+Untitled.ipynb
